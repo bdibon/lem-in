@@ -34,9 +34,7 @@ Run `make` in the root folder of the project will produce an executable `lem-in`
 3-4
 4-1
 ```
-`lem-in` will then return a formatted answer `Lx-y Lz-w Lr-o` where x, z and r represent the `ant id`; y, w, o represent the `room id`, every line break means the end of a turn.
-
-Example:
+`lem-in` will then return a formatted answer `Lx-y Lz-w Lr-o` where x, z and r represent the `ant id`; y, w, o represent the `room id`, every line break means the end of a turn. Thus `L1-2` means `ant 1` moved to `room 2`. 
 
 ```
 L1-2
